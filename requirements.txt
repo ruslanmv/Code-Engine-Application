@@ -1,0 +1,6 @@
+streamlit==1.28.2
+ibm-cos-sdk==2.13.2
+ibm-cos-sdk-core==2.13.2
+ibm-cos-sdk-s3transfer==2.13.2
+ibm-watson-machine-learning==1.0.326
+python-dotenv
